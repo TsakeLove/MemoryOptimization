@@ -34,10 +34,10 @@ static void Main(string[] args)
 
         }
 ```
-### Resut
+### Result
  ![alt text](picture/result_before.png "Code_after")​
 ### Сode after optimization
  ![alt text](picture/code_after.png "Code_after")​
- ### Resut
+ ### Result
  ![alt text](picture/result_after.png "Code_after")​
 
